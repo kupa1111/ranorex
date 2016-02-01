@@ -11,13 +11,7 @@ namespace ConsoleApplication1
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Drugi commit");
-            Console.Read();
-        }
-
-        public void printLn()
-        {
-            Console.WriteLine("Tretji commit");
+            Console.WriteLine("Dela");
             Console.Read();
         }
     }
